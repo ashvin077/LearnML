@@ -1,2 +1,2 @@
 # LearnML
-Machine Learning Project for learning, at beginning level.
+Machine Learning Projects that you can practice by your own, at beginning level.
